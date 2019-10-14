@@ -1,0 +1,52 @@
+C:\Users\dager\Desktop\MultiThreadCommands\MultiThreadCommands\bin\Debug\MultiThreadCommands.exe.config
+C:\Users\dager\Desktop\MultiThreadCommands\MultiThreadCommands\bin\Debug\MultiThreadCommands.exe
+C:\Users\dager\Desktop\MultiThreadCommands\MultiThreadCommands\bin\Debug\MultiThreadCommands.pdb
+C:\Users\dager\Desktop\MultiThreadCommands\MultiThreadCommands\obj\Debug\MultiThreadCommands.csprojResolveAssemblyReference.cache
+C:\Users\dager\Desktop\MultiThreadCommands\MultiThreadCommands\obj\Debug\MultiThreadCommands.exe
+C:\Users\dager\Desktop\MultiThreadCommands\MultiThreadCommands\obj\Debug\MultiThreadCommands.pdb
+C:\Users\dager\Desktop\MultiThreadCommands\MultiThreadCommands\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dager\Desktop\MultiThreadCommands\MultiThreadCommands\bin\Debug\xNet.dll
+C:\Users\dager\Desktop\MultiThreadCommands\MultiThreadCommands\bin\Debug\Newtonsoft.Json.xml
+D:\dager\Desktop\MultiThreadCommands\MultiThreadCommands\obj\Debug\MultiThreadCommands.csprojResolveAssemblyReference.cache
+D:\dager\Desktop\MultiThreadCommands\MultiThreadCommands\obj\Debug\MultiThreadCommands.csproj.CoreCompileInputs.cache
+D:\dager\Desktop\MultiThreadCommands\MultiThreadCommands\obj\Debug\MultiThreadCommands.exe
+D:\dager\Desktop\MultiThreadCommands\MultiThreadCommands\obj\Debug\MultiThreadCommands.pdb
+D:\dager\Desktop\MultiThreadCommands\MultiThreadCommands\bin\Debug\MultiThreadCommands.exe.config
+D:\dager\Desktop\MultiThreadCommands\MultiThreadCommands\bin\Debug\MultiThreadCommands.exe
+D:\dager\Desktop\MultiThreadCommands\MultiThreadCommands\bin\Debug\MultiThreadCommands.pdb
+D:\dager\Desktop\MultiThreadCommands\MultiThreadCommands\bin\Debug\Newtonsoft.Json.dll
+D:\dager\Desktop\MultiThreadCommands\MultiThreadCommands\bin\Debug\xNet.dll
+D:\dager\Desktop\MultiThreadCommands\MultiThreadCommands\bin\Debug\Newtonsoft.Json.xml
+\\DESKTOP-UR6UCQG\Users\dager\Desktop\VK BOT\MultiThreadCommands\MultiThreadCommands\bin\Debug\MultiThreadCommands.exe.config
+\\DESKTOP-UR6UCQG\Users\dager\Desktop\VK BOT\MultiThreadCommands\MultiThreadCommands\obj\Debug\MultiThreadCommands.exe
+\\DESKTOP-UR6UCQG\Users\dager\Desktop\VK BOT\MultiThreadCommands\MultiThreadCommands\obj\Debug\MultiThreadCommands.pdb
+C:\Users\Ан3рей\Desktop\MultiThreadCommands\MultiThreadCommands\bin\Debug\MultiThreadCommands.exe.config
+C:\Users\Ан3рей\Desktop\MultiThreadCommands\MultiThreadCommands\bin\Debug\MultiThreadCommands.exe
+C:\Users\Ан3рей\Desktop\MultiThreadCommands\MultiThreadCommands\bin\Debug\MultiThreadCommands.pdb
+C:\Users\Ан3рей\Desktop\MultiThreadCommands\MultiThreadCommands\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ан3рей\Desktop\MultiThreadCommands\MultiThreadCommands\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ан3рей\Desktop\MultiThreadCommands\MultiThreadCommands\obj\Debug\MultiThreadCommands.csprojAssemblyReference.cache
+C:\Users\Ан3рей\Desktop\MultiThreadCommands\MultiThreadCommands\obj\Debug\MultiThreadCommands.csproj.CoreCompileInputs.cache
+C:\Users\Ан3рей\Desktop\MultiThreadCommands\MultiThreadCommands\obj\Debug\MultiThreadCommands.csproj.CopyComplete
+C:\Users\Ан3рей\Desktop\MultiThreadCommands\MultiThreadCommands\obj\Debug\MultiThreadCommands.exe
+C:\Users\Ан3рей\Desktop\MultiThreadCommands\MultiThreadCommands\obj\Debug\MultiThreadCommands.pdb
+F:\Google\MultiThreadCommands\MultiThreadCommands\bin\Debug\MultiThreadCommands.exe.config
+F:\Google\MultiThreadCommands\MultiThreadCommands\bin\Debug\MultiThreadCommands.exe
+F:\Google\MultiThreadCommands\MultiThreadCommands\bin\Debug\MultiThreadCommands.pdb
+F:\Google\MultiThreadCommands\MultiThreadCommands\bin\Debug\Newtonsoft.Json.dll
+F:\Google\MultiThreadCommands\MultiThreadCommands\bin\Debug\Newtonsoft.Json.xml
+F:\Google\MultiThreadCommands\MultiThreadCommands\obj\Debug\MultiThreadCommands.csprojAssemblyReference.cache
+F:\Google\MultiThreadCommands\MultiThreadCommands\obj\Debug\MultiThreadCommands.csproj.CoreCompileInputs.cache
+F:\Google\MultiThreadCommands\MultiThreadCommands\obj\Debug\MultiThreadCommands.csproj.CopyComplete
+F:\Google\MultiThreadCommands\MultiThreadCommands\obj\Debug\MultiThreadCommands.exe
+F:\Google\MultiThreadCommands\MultiThreadCommands\obj\Debug\MultiThreadCommands.pdb
+C:\Users\Ан3рей\Google Диск\MultiThreadCommands\MultiThreadCommands\bin\Debug\MultiThreadCommands.exe.config
+C:\Users\Ан3рей\Google Диск\MultiThreadCommands\MultiThreadCommands\bin\Debug\MultiThreadCommands.exe
+C:\Users\Ан3рей\Google Диск\MultiThreadCommands\MultiThreadCommands\bin\Debug\MultiThreadCommands.pdb
+C:\Users\Ан3рей\Google Диск\MultiThreadCommands\MultiThreadCommands\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ан3рей\Google Диск\MultiThreadCommands\MultiThreadCommands\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ан3рей\Google Диск\MultiThreadCommands\MultiThreadCommands\obj\Debug\MultiThreadCommands.csprojAssemblyReference.cache
+C:\Users\Ан3рей\Google Диск\MultiThreadCommands\MultiThreadCommands\obj\Debug\MultiThreadCommands.csproj.CoreCompileInputs.cache
+C:\Users\Ан3рей\Google Диск\MultiThreadCommands\MultiThreadCommands\obj\Debug\MultiThreadCommands.csproj.CopyComplete
+C:\Users\Ан3рей\Google Диск\MultiThreadCommands\MultiThreadCommands\obj\Debug\MultiThreadCommands.exe
+C:\Users\Ан3рей\Google Диск\MultiThreadCommands\MultiThreadCommands\obj\Debug\MultiThreadCommands.pdb
